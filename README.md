@@ -14,6 +14,7 @@ Identifies unique landmarks
 Detect and identifies specific facial structures
 
 <h1 align="center"> Content:</h1>
+
 ```
   - haarcascade_eye.xml
   - haarcascade_frontalface_default
