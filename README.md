@@ -7,7 +7,7 @@ Authors:
 4. Rowland Sanders
 
 <h1 align="center"> Project Name:</h1>
-Temp Name: Mask-o-Vision
+Mask-o-Vision
 
 <h1 align="center"> Fetures:</h1>
 Identifies unique landmarks
