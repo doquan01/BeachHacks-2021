@@ -15,7 +15,7 @@ def draw_boundary(img, classifier, scaleFactor, minNeighbors, color, text):
     return coords
 
 
-# Method to detect the features
+
 def detect(img, faceCascade, eyeCascade, mouthCascade, glassCascade):
     color = {"blue":(255,0,0), "red":(0,0,255), "green":(0,255,0), "white":(255,255,255)}
     coords = draw_boundary(img, faceCascade, 1.1, 10, color['blue'], "Face")
