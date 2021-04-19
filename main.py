@@ -69,7 +69,7 @@ while True:
     # showing the image returned 
     cv2.imshow("face detection", img)
     #after 1 second, pressing q will terimate program
-    if  cv2.waitKey(1000) & 0xFF == ord('q'):
+    if  cv2.waitKey(30) & 0xFF == ord('q'):
         break
 
 
